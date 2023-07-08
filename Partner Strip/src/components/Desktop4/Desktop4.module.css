@@ -1,0 +1,60 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  background-color: #e4e4e4;
+  overflow: hidden;
+}
+.rectangle13 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 99px;
+  background-color: #acacac;
+}
+.blockchainVectorLogoRemovebgPr {
+  position: absolute;
+  left: 1147px;
+  top: 26px;
+  width: 225px;
+  height: 47px;
+  background-image:/* webpackIgnore: true */ url('/assets/blockchainVectorLogoRemovebgPr.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image4 {
+  position: absolute;
+  left: 785px;
+  top: 24px;
+  width: 241px;
+  height: 52px;
+  background-image:/* webpackIgnore: true */ url('/assets/image4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image3 {
+  position: absolute;
+  left: 425px;
+  top: 27px;
+  width: 209px;
+  height: 46px;
+  background-image:/* webpackIgnore: true */ url('/assets/image3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image2 {
+  position: absolute;
+  left: 26px;
+  top: 24px;
+  width: 285px;
+  height: 51px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
